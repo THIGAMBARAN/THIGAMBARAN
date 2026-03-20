@@ -3,7 +3,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=260&section=header&text=THIGAMBARAN&fontSize=55&fontColor=00ffcc&animation=fadeIn"/>
 </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thigambaran&label=Profile%20Views&color=00ffcc&style=for-the-badge"/>
+</p>
 <h1 align="center">Hi 👋, I'm Thigambaran</h1>
 
 <div align="center">
@@ -47,7 +49,7 @@
 
 🔥 **Achievements**
 
-* 🧠 580+ LeetCode Problems
+* 🧠 600+ LeetCode Problems
 * 🧠 800+ Skillrack Problems
 * 🏆 VibeCode 2025 Finalist
 * 🏆 CodeMatrix 2025 Finalist
@@ -228,6 +230,7 @@ srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribu
 💼 **LinkedIn:**
 [linkedin:
 ](https://www.linkedin.com/in/thigambaran8/)
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thigambaran&label=Profile%20Views&color=00ffcc&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/THIGAMBARAN/THIGAMBARAN/output/snake-dark.svg" />
 </p>
